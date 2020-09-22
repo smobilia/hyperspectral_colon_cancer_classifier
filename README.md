@@ -5,7 +5,7 @@ The purpose of this project was to show how hyperspectral imagery can be used to
 
 ## Requirements
 
-## Preprocessing
+## Data and Preprocessing
 
 ## CNN Implementation
 
